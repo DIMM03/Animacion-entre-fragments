@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ani</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mensaje">Funcion en proceso</string>
+    <string name="regresar">Regresar</string>
+    <string name="sig">Siguiente</string>
+</resources>
